@@ -1,20 +1,3 @@
-/*
-    Authors             : Team BRAND
-    Last Modified date  : 30/07/2021
-    Team                :
-        [Thalagala B.P.             180631J](https://github.com/bimalka98)
-        [Sandeepa H.K.C.A           180564F](https://github.com/AvishkaSandeepa)
-        [Hewavitharana D.R.         180241M](https://github.com/Hevidra)
-        [Nagasinghe K.R.Y.          180411K](https://github.com/Ravindu-Yasas-Nagasinghe)
-        [Kumarasinghe H.A.N.H.      180337M](https://github.com/nikeshi99)
-
-    Final executable code: https://github.com/AvishkaSandeepa/webots-Autonomous-Mobile-Robot
-*/
-
-//==============================================================================
-//*                                  Preamble                                  *
-//==============================================================================
-
 //Adding required libraries
 #include <webots/Robot.hpp>
 #include <webots/Motor.hpp>
