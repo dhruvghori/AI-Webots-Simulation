@@ -1,6 +1,3 @@
-//Author : Darsha Randitha
-//Modified date : 01/07/2021
-
 // Added include files
 #include <webots/Robot.hpp>
 #include <webots/Motor.hpp>
