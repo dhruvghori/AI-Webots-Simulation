@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\controllers\\final_controller",
+    "\\controllers\\gate_controller1",
+    "\\controllers\\gate_controller2"
+  ],
+  "SelectedNode": "\\controllers\\gate_controller2\\gate_controller2.cpp",
+  "PreviewInSolutionExplorer": false
+}
